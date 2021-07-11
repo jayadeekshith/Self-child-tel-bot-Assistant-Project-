@@ -1,7 +1,7 @@
 #TEL-BOT-ASSISTANT
 
 As we know helping the other in need is most important one .so we came up with an optimal
-solution using this telegram bot you will get an self assistant who can help your loved once at the same time he can help you too.
+solution using this telegram bot you will get a self assistant who can help your loved once, at the same time he can help you too.
 you can access this bot from anywhere in world.
 
 #To access
