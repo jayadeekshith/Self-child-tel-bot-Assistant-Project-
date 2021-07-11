@@ -6,3 +6,4 @@ you can access this bot from anywhere in world.
 
 #To access
 go to telegram->search ->chitti_for_jd_bot-> send commands like /yourcommand
+#example /google
