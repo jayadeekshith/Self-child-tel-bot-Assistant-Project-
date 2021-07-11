@@ -50,6 +50,12 @@ def send_welcome(message):
 def send_welcome(message):
     bot.reply_to(message,kt.search("https://gaana.com/playlist/dunuambrose-indiagana"))
 
+    
+#shutdown
+@bot.message_handler(commands=['turnoff'])
+def send_welcome(message):
+    bot.reply_to(message,kt.shutdown(10))
+
 
 #enter your input search
 @bot.message_handler(commands=["search"])
